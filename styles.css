@@ -11,7 +11,11 @@ body {
   align-items: center;
   width: 100vw;
   height: 100vh;
-  background-color: #333;
+  background: url("https://i.imgur.com/CWGENct.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  /*background-color: #333;*/
 }
 
 .container {

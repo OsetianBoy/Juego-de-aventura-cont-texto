@@ -52,7 +52,7 @@ const textNodes = [
       {
         text: 'Dejás la piedra brillante',
         nextText: 2
-      }
+      },
     ]
   },
   {
